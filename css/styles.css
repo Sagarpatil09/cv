@@ -1,0 +1,18 @@
+body {
+  background-color: aliceblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: darkgray;
+  width: 5%;
+}
+h1{
+  color: dodgerblue;
+  font-style: oblique 10deg;
+}
+h3{
+  color: #66BFBF;
+}
